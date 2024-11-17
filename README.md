@@ -1,3 +1,26 @@
+# Accessibility in Jetpack Compose Codelab
+
+This folder contains the source code for
+the [Accessibility in Jetpack Compose Codelab](https://developer.android.com/codelabs/jetpack-compose-accessibility)
+
+## License
+
+```
+Copyright 2021 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
 MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAo6Ze5tpIUrNPBla71NFbBZIyFBrDrPn0FIPECEBYgz_D3_Xal1JMyZEQyBMYG884V_qS595JJRukePys-5LLvg9oKBY20bqfQTxtUz9O41XSWa8J6lcnowUgMlQWq184aiXDjt8j-gbcb6ciD1Q4EZnchUGagXlKlNOZhdaPx-KSXIZEDJ1dRtKkQBfAvJiA4mICGSXon_CHuApzooZBA5VI814a_OxA3a6yFNzIdiGUx_6DJTFcvJitl3vqhrIKXSy8of5FpfpBvAzjEFR1CujeTiwm1UHIK1hJMuC59nYvasbq4H9F550lZnwVTyJuC5VPthfj6JLkPxQkoBiVyrd0TIL4VJbl1WJGAeXSyNPO_mzFyjP-6wXCLF7e87KV9fL4cUv2UFmKB7iB5GTfUhRXpA1ixs_8lselAEXiOHBx-ycmmYv686sY3rSfTsPzU7nVJSSxSdA94zT_2gCQi7F7r-0N6JJCMZLAStvd5SJc0zJcDHkRFJZkWCwpGkPEFLf_PIDjt0Vlh5mxXe4tsYGfxeT_Q-gcRjHLY97TMWAaxbaY4rJgoOpa6b8AEl2sHmGTGvxheHvIurAzKstegUqr33jccEyxAb424emtPvFqog-FZQZPofohSKehRtZB86P3c40Pg7hrPfiZz8VD7_eF4I3XW1s2fgzBNXDakBsCAwEAAQ
 d8:announce36:http://bt1.archive.org:6969/announce13:announce-listll36:http://bt1.archive.org:6969/announceel36:http://bt2.archive.org:6969/announceee7:comment638:This content hosted at the Internet Archive at https://archive.org/details/god-first-john-james
 Files may have changed, which prevents torrents from downloading correctly or completely; please check for an updated torrent at https://archive.org/download/god-first-john-james/god-first-john-james_archive.torrent
